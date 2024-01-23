@@ -1,0 +1,3 @@
+C:/Users/WBK/VirtualBox VMs/C_Programming/GITHUB2/cmake-build-debug/CMakeFiles/GITHUB2.dir
+C:/Users/WBK/VirtualBox VMs/C_Programming/GITHUB2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WBK/VirtualBox VMs/C_Programming/GITHUB2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
